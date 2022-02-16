@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Silent Game Images
 uid: e2538a74-eea5-808e-4258-f0a02c2a28a5
 ---

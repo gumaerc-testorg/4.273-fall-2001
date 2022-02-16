@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Log
 uid: 3406ed59-5167-ffdc-3b0a-accc7c7a4565
 ---
