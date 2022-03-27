@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9e99e6df-d344-b2f3-32e1-8e99013c0298
 resourcetype: Document
 title: johngerolecture.pdf
 uid: da5ae615-2463-5376-5888-3d3a1e11215a

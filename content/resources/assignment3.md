@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: fde83533-0162-9548-7d7a-b8db98c5a50b
 resourcetype: Document
 title: assignment3.pdf
 uid: 1ff18b0c-a6d2-b36e-03e0-152cd2850c46
