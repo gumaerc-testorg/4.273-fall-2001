@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A log of the events of each class session.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Log

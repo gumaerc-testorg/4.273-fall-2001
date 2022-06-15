@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: How to Calculate with Shapes
-file: /media/courses/4-273-introduction-to-design-inquiry-fall-2001/5b04b292b55ab716dceb4a3dea131e70_stinycalculatewithshapes.pdf
+file: /courses/4-273-introduction-to-design-inquiry-fall-2001/5b04b292b55ab716dceb4a3dea131e70_stinycalculatewithshapes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: stinycalculatewithshapes.pdf
 uid: 5b04b292-b55a-b716-dceb-4a3dea131e70
 ---
+How to Calculate with Shapes
+
