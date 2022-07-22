@@ -5,6 +5,7 @@ file: /courses/4-273-introduction-to-design-inquiry-fall-2001/ba2d89ea063ca5ffb9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: stinyresoningvisual.pdf
 uid: ba2d89ea-063c-a5ff-b96f-cf694c66b581
 ---
 When Is Reasoning Visual?
-

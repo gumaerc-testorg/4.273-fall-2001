@@ -5,6 +5,7 @@ file: /courses/4-273-introduction-to-design-inquiry-fall-2001/9a244a8ecd89a51c73
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment2.pdf
 uid: 9a244a8e-cd89-a51c-7348-6592c7dec0bc
 ---
 What do I see?
-

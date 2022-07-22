@@ -5,6 +5,7 @@ file: /courses/4-273-introduction-to-design-inquiry-fall-2001/1dcd989af4f380af65
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment7.pdf
 uid: 1dcd989a-f4f3-80af-655a-ba0ef461f639
 ---
 Takehikp's Experiment
-

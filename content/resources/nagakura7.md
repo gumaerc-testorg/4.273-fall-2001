@@ -5,6 +5,7 @@ file: /courses/4-273-introduction-to-design-inquiry-fall-2001/44fb085bcef791c58e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nagakura7.pdf
 uid: 44fb085b-cef7-91c5-8e8e-a842e409e675
 ---
 Open Experiment
-

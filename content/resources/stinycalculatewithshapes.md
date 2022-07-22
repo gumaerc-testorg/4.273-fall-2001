@@ -5,6 +5,7 @@ file: /courses/4-273-introduction-to-design-inquiry-fall-2001/5b04b292b55ab716dc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: stinycalculatewithshapes.pdf
 uid: 5b04b292-b55a-b716-dceb-4a3dea131e70
 ---
 How to Calculate with Shapes
-

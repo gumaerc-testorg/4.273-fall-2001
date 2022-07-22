@@ -5,6 +5,7 @@ file: /courses/4-273-introduction-to-design-inquiry-fall-2001/1ff18b0ca6d2b36e03
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment3.pdf
 uid: 1ff18b0c-a6d2-b36e-03e0-152cd2850c46
 ---
 MIT Chapel: form
-
