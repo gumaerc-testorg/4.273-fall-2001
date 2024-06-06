@@ -2,6 +2,7 @@
 content_type: resource
 description: List of Assignments
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/e5a3bb0276bfde07dc790bea522cf5c3_Assignments.pdf
+file_size: 41157
 file_type: application/pdf
 learning_resource_types:
 - Assignments

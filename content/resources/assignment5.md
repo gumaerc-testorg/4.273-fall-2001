@@ -2,6 +2,7 @@
 content_type: resource
 description: Type
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/30825e2126e737d49da6c9e975c52bf2_assignment5.pdf
+file_size: 2190320
 file_type: application/pdf
 learning_resource_types:
 - Projects
