@@ -2,6 +2,7 @@
 content_type: resource
 description: Evolutionary Mutants
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/0806c00606904823c98ed724c22297c1_Assignment8.pdf
+file_size: 57585
 file_type: application/pdf
 learning_resource_types:
 - Projects

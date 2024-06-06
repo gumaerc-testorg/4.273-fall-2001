@@ -3,6 +3,7 @@ content_type: resource
 description: 'Assignment 10: Reflection on the relation between 4.273 and my own direction
   of development'
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/6e760db60eeb85f36ba1687d7adc1193_Assignment10.pdf
+file_size: 13965
 file_type: application/pdf
 learning_resource_types:
 - Projects

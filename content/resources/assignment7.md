@@ -2,6 +2,7 @@
 content_type: resource
 description: Takehikp's Experiment
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/1dcd989af4f380af655aba0ef461f639_assignment7.pdf
+file_size: 1001897
 file_type: application/pdf
 learning_resource_types:
 - Projects

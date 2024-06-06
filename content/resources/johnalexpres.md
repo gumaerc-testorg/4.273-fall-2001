@@ -2,6 +2,7 @@
 content_type: resource
 description: Everything you wanted to know about computers (but were afraid to ask)
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/78064e78c92486f634556afdf3846d75_johnalexpres.pdf
+file_size: 258959
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
