@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Open Experiment
-file: /courses/4-273-introduction-to-design-inquiry-fall-2001/44fb085bcef791c58e8ea842e409e675_nagakura7.pdf
+file: /ol-ocw-studio-app/courses/4-273-introduction-to-design-inquiry-fall-2001/44fb085bcef791c58e8ea842e409e675_nagakura7.pdf
 file_size: 65484
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT Chapel: form'
-file: /courses/4-273-introduction-to-design-inquiry-fall-2001/1ff18b0ca6d2b36e03e0152cd2850c46_assignment3.pdf
+file: /ol-ocw-studio-app/courses/4-273-introduction-to-design-inquiry-fall-2001/1ff18b0ca6d2b36e03e0152cd2850c46_assignment3.pdf
 file_size: 3515824
 file_type: application/pdf
 learning_resource_types:
