@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment 4
-file: /ol-ocw-studio-app/courses/4-273-introduction-to-design-inquiry-fall-2001/885c9e9e99268b4dd92cc93cc4bc5c44_assignment4.pdf
+file: /courses/4-273-introduction-to-design-inquiry-fall-2001/885c9e9e99268b4dd92cc93cc4bc5c44_assignment4.pdf
 file_size: 987891
 file_type: application/pdf
 learning_resource_types:
