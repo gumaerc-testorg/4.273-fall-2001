@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-273-introduction-to-design-inquiry-fall-2001/c06151fa1efcf89ce29625a28b0332ad_loomis.pdf
+file: /courses/4-273-introduction-to-design-inquiry-fall-2001/c06151fa1efcf89ce29625a28b0332ad_loomis.pdf
 file_size: 405081
 file_type: application/pdf
 learning_resource_types:
