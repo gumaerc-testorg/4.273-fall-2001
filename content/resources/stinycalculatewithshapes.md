@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: How to Calculate with Shapes
-file: /courses/4-273-introduction-to-design-inquiry-fall-2001/5b04b292b55ab716dceb4a3dea131e70_stinycalculatewithshapes.pdf
+file: /ol-ocw-studio-app/courses/4-273-introduction-to-design-inquiry-fall-2001/5b04b292b55ab716dceb4a3dea131e70_stinycalculatewithshapes.pdf
 file_size: 948188
 file_type: application/pdf
 learning_resource_types:
